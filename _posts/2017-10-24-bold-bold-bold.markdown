@@ -2,7 +2,7 @@
 layout: post
 title:  "粗体，粗体，粗体"
 date:   2017-10-24 16:11:05 +0800
-author: vendell
+author: Vendell
 categories: design
 ---
 
